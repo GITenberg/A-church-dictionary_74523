@@ -1,0 +1,28 @@
+_repo: A-church-dictionary_74523
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hook, Walter Farquhar
+    gutenberg_agent_id: '57536'
+    url: http://www.gutenberg.org/2009/agents/57536
+description: ''
+gutenberg_issued: '2024-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74523'
+language: en
+pgterms:marc904: http://archive.org/details/churchdictionary00hook
+pgterms:marc905: 20130522130014farquharho
+pgterms:marc906: '1854'
+pgterms:marc907: GB
+production_note: Richard Tonsing, Peter Podgoršek and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bJohn Murray, $c1854.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A church dictionary
+url: http://www.gutenberg.org/ebooks/74523
